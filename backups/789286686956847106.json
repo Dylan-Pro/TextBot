@@ -1,0 +1,600 @@
+{
+    "name": "🤖Config Bot & Testing {BDScript & Discord.js}🎓",
+    "region": "us-central",
+    "verificationLevel": "MEDIUM",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "MENTIONS",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [],
+        "others": [
+            {
+                "type": "text",
+                "name": "《📔》reglas",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "miembros",
+                        "allow": 1024,
+                        "deny": 6144
+                    }
+                ],
+                "messages": [
+                    {
+                        "username": "Luisito",
+                        "avatar": "https://cdn.discordapp.com/avatars/686378370350579766/4ee4ad65e7d16d539e7b1279fdb9e465.webp",
+                        "content": "Necesitan ayuda en algo?",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Luisito",
+                        "avatar": "https://cdn.discordapp.com/avatars/686378370350579766/4ee4ad65e7d16d539e7b1279fdb9e465.webp",
+                        "content": "Que onda ._.",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "a",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Lodi_3 ★",
+                        "avatar": "https://cdn.discordapp.com/avatars/707714402702458880/7693ad74d81511159b568cdd4f39084b.webp",
+                        "content": "a",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Fabbi-Chan",
+                        "avatar": "https://cdn.discordapp.com/avatars/704819412913356861/b10ecea47328ce692aeda24aa7b41a63.webp",
+                        "content": "https://discord.gg/NeswjzwzYu",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Fabbi-Chan",
+                        "avatar": "https://cdn.discordapp.com/avatars/704819412913356861/b10ecea47328ce692aeda24aa7b41a63.webp",
+                        "content": "XD",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Nicolas985",
+                        "avatar": "https://cdn.discordapp.com/avatars/475724847377285130/a_f833fd0152e5470ccb5feda2ebea8e89.webp",
+                        "content": "xd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Sumi Sakurazawa",
+                        "avatar": "https://cdn.discordapp.com/avatars/690677866555244596/a_49b7bfa09c47fe98d6ead6775ef5abb3.webp",
+                        "content": "ctm por usar un emoji hiciste doble ping xd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Nicolas985",
+                        "avatar": "https://cdn.discordapp.com/avatars/769600590497710101/28eb61d50385bb658ddd6a51f3cfcb4f.webp",
+                        "content": "@everyone el \":v\" y sus variaciones como \":u\" etc quedan prohibidos <:trauma:742908959584813187>",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "🎅HojataDarkYT🎄!!",
+                        "avatar": "https://cdn.discordapp.com/avatars/707578723280486400/bfcdff96398db35e2f87d1e427f0bc22.webp",
+                        "content": "📘 Sección A\n1. Respetarse entre todos, nada de discriminación ni insultos, temas incómodos y/o sensibles. Discusiones y dramas deben ser llevados fuera del servidor.\n\n2. Nada de toxicidad, ésto incluye molestar a otras personas, falta de sentido común, o ser excesivamente/intencionalmente negativo.\n\n3. No compartir datos personales, como números, direcciones, etc.\n\n4. Deja a los moderadores hacer su trabajo, los usuarios no deberían entrometerse en las acciones de moderadores o hacer cumplir las reglas múltiples veces a los demás, si alguien está rompiendo exageradamente las reglas solo llama a un moderador.\n⁣\n⁣\n📙 Sección B\n1. Usar los canales correctamente, cualquier conversación fuera del tema del canal está prohibida. Te recomendamos leer la descripción de todos los canales para saber su tema.\n\n2. No usar multicuentas en el servidor, éstas están estrictamente vetadas del servidor.\n\n3. No preguntar por roles, no se te serán dados.\n\n4. El flood y/o spam en los canales de texto no está permitido, y el contenido NSFW es un ban inmediato dependiendo del nivel.\n⁣\n⁣\n📕 Sección C\n1. Cuestionar las reglas no es saludable, están ahí para ayudarte y mantener el orden en el servidor.\n\n2. El personal también tiene vida propia, hazles y un favor y no les menciones ya que puede molestarlos o pueden estar ocupados. Otra gente te ayudará en algo si lo necesitas, cuando puedan. (Puedes mencionar a los moderadores en un caso de emergencia).\n\n3. Publicidad por MD rompe los términos de servicio, así que también serás infraccionado si lo haces.\n\n4. Sigue las órdenes de los moderadores cuando te lo digan y no los cuestiones o argumentes con ellos, están allí para mantener el orden y saben lo que hacen.\n@everyone",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            },
+            {
+                "type": "text",
+                "name": "xdd",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [
+                    {
+                        "username": "Lodi_3 ★",
+                        "avatar": "https://cdn.discordapp.com/avatars/707714402702458880/7693ad74d81511159b568cdd4f39084b.webp",
+                        "content": "#HailGrasa :v",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "t!backup create",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Soofted",
+                        "avatar": "https://cdn.discordapp.com/avatars/602549310651105292/463e3236bace23b75bcc098feef45b99.webp",
+                        "content": "@",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!Samu",
+                        "avatar": "https://cdn.discordapp.com/avatars/721008068334321704/a_c6149f984221c3a47a75b228c50d49fc.webp",
+                        "content": "Diego regálame el serv",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Luisito",
+                        "avatar": "https://cdn.discordapp.com/avatars/686378370350579766/4ee4ad65e7d16d539e7b1279fdb9e465.webp",
+                        "content": "Este server está quedando loco okno xd 🤡",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "dx",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "dx",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "x",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "xd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "xd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            },
+            {
+                "type": "text",
+                "name": "diego-me-calienta",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [],
+                "messages": [
+                    {
+                        "username": "Antony🎄",
+                        "avatar": "https://cdn.discordapp.com/avatars/562054944962641932/0636c4d8efe84d1693fb19561e78fe68.webp",
+                        "content": ":v",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "! PEPE",
+                        "avatar": "https://cdn.discordapp.com/avatars/761404868460019732/a_1e1139a5964d4046efee7db284afe87e.webp",
+                        "content": "A",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "@everyone",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "IJustSam",
+                        "avatar": "https://cdn.discordapp.com/avatars/536290066859819020/2d50a10d7e77d0bd2558b5e29e863b4d.webp",
+                        "content": "Diego me calienta",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "bots generales",
+            "color": "#00ff5c",
+            "hoist": true,
+            "permissions": 104058369,
+            "mentionable": false,
+            "position": 54
+        },
+        {
+            "name": "Founder",
+            "color": "#277ecd",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 53
+        },
+        {
+            "name": "『🎓』Admin-Support」",
+            "color": "#17ac86",
+            "hoist": false,
+            "permissions": 2118119163,
+            "mentionable": false,
+            "position": 52
+        },
+        {
+            "name": "『🔨』Admin」",
+            "color": "#e74c3c",
+            "hoist": true,
+            "permissions": 104320585,
+            "mentionable": false,
+            "position": 51
+        },
+        {
+            "name": "『🎃』Mod」",
+            "color": "#ae6800",
+            "hoist": true,
+            "permissions": 2117463793,
+            "mentionable": true,
+            "position": 50
+        },
+        {
+            "name": "『🎓』Support BDFD」",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": true,
+            "position": 49
+        },
+        {
+            "name": "『🎓』Support Discord.js」",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": true,
+            "position": 48
+        },
+        {
+            "name": "『 ✏️』Diseñadores」",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 47
+        },
+        {
+            "name": "『🪓』Staffs Bots」",
+            "color": "#206694",
+            "hoist": true,
+            "permissions": 104320713,
+            "mentionable": false,
+            "position": 46
+        },
+        {
+            "name": "Muted",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 67174401,
+            "mentionable": false,
+            "position": 44
+        },
+        {
+            "name": "EL WEON SIN AMIGOS",
+            "color": "#94ff00",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 43
+        },
+        {
+            "name": "miembros",
+            "color": "#fae900",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 42
+        },
+        {
+            "name": "Kayzto2",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 41
+        },
+        {
+            "name": "bots",
+            "color": "#14e200",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 40
+        },
+        {
+            "name": "The Crown",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 31
+        },
+        {
+            "name": "#Seagrass",
+            "color": "#6fc785",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 30
+        },
+        {
+            "name": "#Seafoam",
+            "color": "#92d4cb",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 29
+        },
+        {
+            "name": "#Baby Blue",
+            "color": "#7fbff3",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 28
+        },
+        {
+            "name": "#Coral",
+            "color": "#e67b41",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 27
+        },
+        {
+            "name": "#Pastel Red",
+            "color": "#ff5858",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 26
+        },
+        {
+            "name": "#Rose Gold",
+            "color": "#c57f8b",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 25
+        },
+        {
+            "name": "nuevo rol",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": false,
+            "position": 1
+        }
+    ],
+    "bans": [
+        {
+            "id": "662152342954836017",
+            "reason": null
+        },
+        {
+            "id": "723534689725317120",
+            "reason": null
+        },
+        {
+            "id": "757724939926110239",
+            "reason": null
+        }
+    ],
+    "emojis": [
+        {
+            "name": "discord_popo",
+            "url": "https://cdn.discordapp.com/emojis/763837088059097123.png"
+        },
+        {
+            "name": "advertencia",
+            "url": "https://cdn.discordapp.com/emojis/763837196733775873.png"
+        },
+        {
+            "name": "muteo",
+            "url": "https://cdn.discordapp.com/emojis/763837603865690153.png"
+        },
+        {
+            "name": "prohibido",
+            "url": "https://cdn.discordapp.com/emojis/763837721817907231.png"
+        },
+        {
+            "name": "martillo",
+            "url": "https://cdn.discordapp.com/emojis/763837860402167818.png"
+        },
+        {
+            "name": "herramientas",
+            "url": "https://cdn.discordapp.com/emojis/763837993466593286.png"
+        },
+        {
+            "name": "llave",
+            "url": "https://cdn.discordapp.com/emojis/763838129693524048.png"
+        },
+        {
+            "name": "tuerca",
+            "url": "https://cdn.discordapp.com/emojis/763838219288182806.png"
+        },
+        {
+            "name": "ban",
+            "url": "https://cdn.discordapp.com/emojis/763839221559459840.png"
+        },
+        {
+            "name": "nitro",
+            "url": "https://cdn.discordapp.com/emojis/763848471283105792.png"
+        },
+        {
+            "name": "nitro_new",
+            "url": "https://cdn.discordapp.com/emojis/763848491444338698.png"
+        },
+        {
+            "name": "nitro_classic",
+            "url": "https://cdn.discordapp.com/emojis/763848516434657350.png"
+        },
+        {
+            "name": "carl_bot",
+            "url": "https://cdn.discordapp.com/emojis/763853226465689621.png"
+        },
+        {
+            "name": "MEE6_avatar",
+            "url": "https://cdn.discordapp.com/emojis/763853286817136641.png"
+        },
+        {
+            "name": "discord_bot_developer",
+            "url": "https://cdn.discordapp.com/emojis/763853332669530135.png"
+        },
+        {
+            "name": "Robot",
+            "url": "https://cdn.discordapp.com/emojis/763853415901691935.png"
+        },
+        {
+            "name": "Bot",
+            "url": "https://cdn.discordapp.com/emojis/763853446432423986.png"
+        },
+        {
+            "name": "visual_studios",
+            "url": "https://cdn.discordapp.com/emojis/764121540803035186.gif"
+        },
+        {
+            "name": "_F",
+            "url": "https://cdn.discordapp.com/emojis/764123254709289011.gif"
+        },
+        {
+            "name": "fire_blue",
+            "url": "https://cdn.discordapp.com/emojis/764123417762594876.gif"
+        },
+        {
+            "name": "RobotSlam",
+            "url": "https://cdn.discordapp.com/emojis/764124227291971624.gif"
+        },
+        {
+            "name": "RobotSpin",
+            "url": "https://cdn.discordapp.com/emojis/764124251347091457.gif"
+        },
+        {
+            "name": "Mee6Everyone",
+            "url": "https://cdn.discordapp.com/emojis/764124961312473120.png"
+        },
+        {
+            "name": "aalerta",
+            "url": "https://cdn.discordapp.com/emojis/765960963487694858.gif"
+        },
+        {
+            "name": "timido",
+            "url": "https://cdn.discordapp.com/emojis/767056682769448970.gif"
+        },
+        {
+            "name": "facha",
+            "url": "https://cdn.discordapp.com/emojis/767775010659631113.gif"
+        }
+    ],
+    "createdTimestamp": 1608251010408,
+    "guildID": "761711105470496825",
+    "id": "789286686956847106"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "messageID": "788832088853315624",
+    "channelID": "770438699934023691",
+    "guildID": "770435799980048395",
+    "startAt": 1608142625664,
+    "endAt": 1608143825664,
+    "ended": true,
+    "winnerCount": "1",
+    "prize": "Premium en mi bot ^^",
+    "messages": {
+      "giveaway": "🎉 **GIVEAWAY** 🎉",
+      "giveawayEnded": "🎉 **GIVEAWAY TERMINADO** 🎉",
+      "timeRemaining": "Tiempo restante: **{duration}**!",
+      "inviteToParticipate": "Reacciona a 🎉 para participar!",
+      "winMessage": "Felicitaciones: {winners}! Has ganado **{prize}**!",
+      "embedFooter": "TextBot - Giveaways",
+      "noWinner": "Un ganador no pudo ser determinado!",
+      "hostedBy": "Hecho por: {user}",
+      "winners": "Ganador(es)",
+      "endedAt": "Terminó el",
+      "units": {
+        "seconds": "segundos",
+        "minutes": "minutos",
+        "hours": "horas",
+        "days": "días",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "<@768924335028568094>"
+  },
+  {
+    "messageID": "791777998251884594",
+    "channelID": "789286797359448074",
+    "guildID": "761407149435387906",
+    "startAt": 1608844985167,
+    "endAt": 1608845045167,
+    "ended": true,
+    "winnerCount": "1",
+    "prize": "xd",
+    "messages": {
+      "giveaway": "🎉 **GIVEAWAY** 🎉",
+      "giveawayEnded": "🎉 **GIVEAWAY TERMINADO** 🎉",
+      "inviteToParticipate": "Reacciona a 🎉 para participar!",
+      "timeRemaining": "Tiempo restante: **{duration}**!",
+      "winMessage": "Felicitaciones: {winners}! Has ganado **{prize}**!",
+      "embedFooter": "TextBot - Giveaways",
+      "noWinner": "Un ganador no pudo ser determinado!",
+      "winners": "Ganador(es)",
+      "endedAt": "Terminó el",
+      "hostedBy": "Hecho por: {user}",
+      "units": {
+        "seconds": "segundos",
+        "minutes": "minutos",
+        "hours": "horas",
+        "days": "días",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "<@761404868460019732>"
+  },
+  {
+    "messageID": "792329464905990194",
+    "channelID": "747427774968496221",
+    "guildID": "731810857717202965",
+    "startAt": 1608976465119,
+    "endAt": 1608976475119,
+    "ended": true,
+    "winnerCount": "1",
+    "prize": "a",
+    "messages": {
+      "giveaway": "🎉 **GIVEAWAY** 🎉",
+      "giveawayEnded": "🎉 **GIVEAWAY TERMINADO** 🎉",
+      "inviteToParticipate": "Reacciona a 🎉 para participar!",
+      "timeRemaining": "Tiempo restante: **{duration}**!",
+      "winMessage": "Felicitaciones: {winners}! Has ganado **{prize}**!",
+      "embedFooter": "TextBot - Giveaways",
+      "noWinner": "Un ganador no pudo ser determinado!",
+      "winners": "Ganador(es)",
+      "endedAt": "Terminó el",
+      "hostedBy": "Hecho por: {user}",
+      "units": {
+        "seconds": "segundos",
+        "minutes": "minutos",
+        "hours": "horas",
+        "days": "días",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "<@615560046339686422>"
+  },
+  {
+    "messageID": "793489747850952754",
+    "channelID": "770438699934023691",
+    "guildID": "770435799980048395",
+    "startAt": 1609253098048,
+    "endAt": 1609325098048,
+    "ended": true,
+    "winnerCount": "2",
+    "prize": "Anuncio en TextBot (especial navidad y año nuevo)",
+    "messages": {
+      "giveaway": "🎉 **GIVEAWAY** 🎉",
+      "giveawayEnded": "🎉 **GIVEAWAY TERMINADO** 🎉",
+      "inviteToParticipate": "Reacciona a 🎉 para participar!",
+      "timeRemaining": "Tiempo restante: **{duration}**!",
+      "winMessage": "Felicitaciones: {winners}! Has ganado **{prize}**!",
+      "embedFooter": "TextBot - Giveaways",
+      "noWinner": "Un ganador no pudo ser determinado!",
+      "winners": "Ganador(es)",
+      "endedAt": "Terminó el",
+      "hostedBy": "Hecho por: {user}",
+      "units": {
+        "seconds": "segundos",
+        "minutes": "minutos",
+        "hours": "horas",
+        "days": "días",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "<@761404868460019732>"
+  }
+]
