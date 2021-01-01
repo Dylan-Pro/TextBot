@@ -1,6 +1,5 @@
 const { Client, Util, MessageEmbed, MessageAttachment } = require("discord.js");
 const client = new Client();
-require("./server.js");
 const dbl = require("dblapi.js");
 const bot = new dbl(process.env.BDL_TOKEN, client);
 const figlet = require("figlet");
