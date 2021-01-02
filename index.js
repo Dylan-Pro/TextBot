@@ -6728,3 +6728,5 @@ Contigo somos: ${member.guild.members.cache.size}!!!`
 
   canal_guardado.send(hola);
 });
+
+client.login(process.env.TOKEN);
